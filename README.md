@@ -1,6 +1,6 @@
 ### Hi :clap: , I'm ZenMoore :fire:
 
-I'm a self-taught passionate AIer :robot: from China :lantern:
+I'm a passionate AIer :robot: from China :lantern:
 
 My name is `ZenMoore` (anonym :detective:), `Noah` (French :chicken:), or `Zekun Wang` (Chinese :dragon:).
 
