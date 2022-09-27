@@ -2,7 +2,7 @@
 
 I'm a passionate AIer :robot: from China :lantern:
 
-My name is `ZenMoore` (anonym :detective:), `Noah` (French :chicken:), or `Zekun Wang` (Chinese :dragon:).
+My name is `ZenMoore` (anonym :detective:), `Noah` (French :chicken:), or `王泽坤 Zekun Wang` (Chinese :dragon:).
 
 #### About Me
 
