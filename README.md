@@ -18,7 +18,10 @@ My name is `ZenMoore` (anonym :detective:), `Noah` (French :chicken:), or `王�
 
 - **P-Lang** : Python :snake:, Java :coffee:, C/C++ :gear:, Matlab :hammer_and_wrench:
 - **H-Lang** : French :fr:, English :us:, Chinese :cn:
-- **Research** :mag::  System-2 DL([modular cognition](https://aeon.co/essays/how-evolution-hacked-its-way-to-intelligence-from-the-bottom-up), [consciousness prior](https://arxiv.org/abs/1709.08568)), AIxScience (bio 🧬💊, control), NLP([prompt](http://pretrain.nlpedia.ai/), [LMaaS](https://github.com/txsun1997/LMaaS-Papers), [compositionality](https://arxiv.org/pdf/2208.08195.pdf), embodied(https://arxiv.org/abs/2112.15459)), etc.
+- **Research** :mag::  
+  - System-2 DL: [modular cognition](https://aeon.co/essays/how-evolution-hacked-its-way-to-intelligence-from-the-bottom-up), [consciousness prior](https://arxiv.org/abs/1709.08568), [abstraction](https://pdfs.semanticscholar.org/808a/3eb8f1c90d87583fcdcba60da00f6c9c520f.pdf)
+  - NLProc: [prompt](http://pretrain.nlpedia.ai/), [LMaaS](https://github.com/txsun1997/LMaaS-Papers), [compositionality](https://arxiv.org/pdf/2208.08195.pdf), [embodied](https://arxiv.org/abs/2112.15459);
+  - AIxScience: bio 🧬💊, control.
 - **Blog** :black_nib: : mainly on my private notion, partly on my [homepage](https://zenmoore.github.io) and via WeChat Media (微信公众号：`夕小瑶的卖萌屋` :cat:)
 - **Activity** :rainbow: : 🏸🎾🥋🥊🎮🀄🎧🏏🎱🏐⚽📽📖🚴‍♂️🏊‍♀️🏃‍♂️🧗‍♂️✍⛷🧠🏹
 
