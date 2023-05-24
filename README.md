@@ -8,7 +8,7 @@ My name is `ZenMoore` (anonym :detective:), `Noah` (French :chicken:), or `王�
 
 - **Homepage** :earth_asia: : https://zenmoore.github.io (with CV :ocean:)
 
-- NLP/AIxScience **Research Intern** :man_scientist: :man_technologist: :man_student: ([Langboat](http://en.langboat.com/) :arrow_right: [BAAI](https://www.baai.ac.cn/english.html))
+- NLP/LLM/AGI **Research Intern** :man_scientist: :man_technologist: :man_student: ([Langboat](http://en.langboat.com/) :arrow_right: [BAAI](https://www.baai.ac.cn/english.html))
 - Incoming **Master** @ École Centrale de Pékin & Beihang University :mortar_board:
 - **Multidisciplinary** : Math :triangular_ruler:, Physics :atom_symbol:, Economics :moneybag:, CS/AI :computer: ...
 - Live In **Haidian District, Beijing, China** :mahjong:
@@ -19,15 +19,15 @@ My name is `ZenMoore` (anonym :detective:), `Noah` (French :chicken:), or `王�
 - **P-Lang** : Python :snake:, Java :coffee:, C/C++ :gear:, Matlab :hammer_and_wrench:
 - **H-Lang** : French :fr:, English :us:, Chinese :cn:
 - **Research** :mag::  
-  - System-2 DL: [modular cognition](https://aeon.co/essays/how-evolution-hacked-its-way-to-intelligence-from-the-bottom-up), [consciousness prior](https://arxiv.org/abs/1709.08568), [abstraction](https://pdfs.semanticscholar.org/808a/3eb8f1c90d87583fcdcba60da00f6c9c520f.pdf)
-  - NLProc: [prompt](http://pretrain.nlpedia.ai/), [LMaaS](https://github.com/txsun1997/LMaaS-Papers), [compositionality](https://arxiv.org/pdf/2208.08195.pdf), [embodied](https://arxiv.org/abs/2112.15459);
-  - AIxScience: bio 🧬💊, control.
-- **Blog** :black_nib: : mainly on my private notion, partly on my [homepage](https://zenmoore.github.io) and via WeChat Media (微信公众号：`夕小瑶的卖萌屋` :cat:)
+  - Large Language Model: build, prompt, param-efficient, instruction, RLHF, corpus, chat, etc.
+  - [Interactive NLP](https://arxiv.org/pdf/2305.13246.pdf): human (alignment, personality), KB (faithfulness, hallucination), model/tool (ToM, CoT, tool learning, society simulation), environment (embodiment, decision-making, robotics, games, grounding).
+  - System-2 Deep Learning: [Consciousness Prior](https://arxiv.org/abs/1709.08568), [Generative Flow Network](https://arxiv.org/abs/2111.09266).
+- **Blog** :black_nib: : mainly on my private notion, partly on my [homepage](https://zenmoore.github.io) and via WeChat Media (微信公众号：`夕小瑶科技说` :cat:)
 - **Activity** :rainbow: : 🏸🎾🥋🥊🎮🀄🎧🏏🎱🏐⚽📽📖🚴‍♂️🏊‍♀️🏃‍♂️🧗‍♂️✍⛷🧠🏹
 
-#### Contact Me
+#### Contact Me: Looking for collaborators🔥!
 
 - WeChat :green_heart: : `zen1057398161`
 - Twitter :blue_heart: : `ZenMoore1`
-- E-mail :yellow_heart: : `noah.zenmoore@gmail.com`
+- E-mail :yellow_heart: : `zenmoore@buaa.edu.cn`
 - Zhihu :large_blue_diamond: : `ZenMoore`
