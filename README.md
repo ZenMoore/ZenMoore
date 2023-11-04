@@ -8,11 +8,11 @@ My name is `ZenMoore` (anonym :detective:), `Noah` (French :chicken:), or `王�
 
 - **Homepage** :earth_asia: : https://zenmoore.github.io (with CV :ocean:)
 
-- NLP/LLM/AGI **Research Intern** :man_scientist: :man_technologist: :man_student: ([Langboat](http://en.langboat.com/) :arrow_right: [BAAI](https://www.baai.ac.cn/english.html))
+- NLP/LLM/AGI **Research Intern** :man_scientist: :man_technologist: :man_student: ([Langboat](http://en.langboat.com/) :arrow_right: [BAAI](https://www.baai.ac.cn/english.html) :arrow_right: [01.AI](https://01.ai/)&HKUST)
 - Incoming **Master** @ École Centrale de Pékin & Beihang University :mortar_board:
 - **Multidisciplinary** : Math :triangular_ruler:, Physics :atom_symbol:, Economics :moneybag:, CS/AI :computer: ...
 - Live In **Haidian District, Beijing, China** :mahjong:
-- **INTJ** 🤓
+- **INTJ-T** 🤓
 
 #### Interests
 
