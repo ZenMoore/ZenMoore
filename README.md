@@ -1,4 +1,4 @@
-### Hi :clap: , I'm ZenMoore :fire:
+### Hi 👏 , I'm ZenMoore 🔥
 
 I'm a passionate AIer :robot: from China :lantern:
 
