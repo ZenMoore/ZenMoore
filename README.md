@@ -1,33 +1,16 @@
-### Hi 👏 , I'm ZenMoore 🔥
+### Hi 🤗, I'm ZenMoore 🔥
 
-I'm a passionate AIer 🤖 from China 🏮
+My name is Zekun "Moore" Wang (Chinese: 王泽坤; French: WANG Noah).
 
-My name is `ZenMoore` (anonym 🕵️), `Noah` (French 🐔), or `王泽坤 Zekun Wang` (Chinese 🐉).
+🔥 I am actively seeking 25Fall Job and PhD Position. I am also looking for research collaborators!
 
-#### About Me
+You can learn more about me via:
+- Homepage: https://zenmoore.github.io/
+- CV: https://drive.google.com/file/d/1nEkBsgITMZxnFVhszkG_IVyWQxy-Dkxx/view?usp=sharing
+- Google Scholar: https://scholar.google.com/citations?user=g-AOtlYAAAAJ
+- Twitter (X): https://twitter.com/ZenMoore1
 
-- **Homepage** :earth_asia: : https://zenmoore.github.io (with CV :ocean:)
-
-- NLP/LLM/AGI **Research Intern** :man_scientist: :man_technologist: :man_student: ([Langboat](http://en.langboat.com/) :arrow_right: [BAAI](https://www.baai.ac.cn/english.html) :arrow_right: [01.AI](https://01.ai/)&HKUST)
-- Incoming **Master** @ École Centrale de Pékin & Beihang University :mortar_board:
-- **Multidisciplinary** : Math :triangular_ruler:, Physics :atom_symbol:, Economics :moneybag:, CS/AI :computer: ...
-- Live In **Haidian District, Beijing, China** :mahjong:
-- **INTJ-T** 🤓
-
-#### Interests
-
-- **P-Lang** : Python :snake:, Java :coffee:, C/C++ :gear:, Matlab :hammer_and_wrench:
-- **H-Lang** : French :fr:, English :us:, Chinese :cn:
-- **Research** :mag::  
-  - Large Language Model: pre-train, prompt, param-efficient, instruction, RLHF, corpus, chat, etc.
-  - [Interactive NLP](https://arxiv.org/pdf/2305.13246.pdf): human (alignment, personality), KB (faithfulness, hallucination), model/tool (ToM, CoT, tool learning, society simulation), environment (embodiment, decision-making, robotics, games, grounding).
-  - System-2 Deep Learning: [Consciousness Prior](https://arxiv.org/abs/1709.08568), [Generative Flow Network](https://arxiv.org/abs/2111.09266).
-- **Blog** :black_nib: : mainly on my private notion, partly on my [homepage](https://zenmoore.github.io) and via WeChat Media (微信公众号：`夕小瑶科技说` :cat:)
-- **Activity** :rainbow: : 🏸🎾🥋🥊🎮🀄🎧🏏🎱🏐⚽📽📖🚴‍♂️🏊‍♀️🏃‍♂️🧗‍♂️✍⛷🧠🏹
-
-#### Contact Me: looking for PhD positions and collaborators🔥!
-
-- WeChat :green_heart: : `zen1057398161`
-- Twitter :blue_heart: : `ZenMoore1`
-- E-mail :yellow_heart: : `zenmoore@buaa.edu.cn`
-- Zhihu :large_blue_diamond: : `ZenMoore`
+Please feel free to contact me via: 
+- Wechat: `zen1057398161`
+- Email: `zenmoore@buaa.edu.cn`
+- Twitter (X): `ZenMoore1`
